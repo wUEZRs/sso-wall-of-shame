@@ -1,8 +1,8 @@
 ---
-base_pricing: $112.9 per month
+base_pricing: $118 per month
 name: TeamViewer
-percent_increase: 103%+
-pricing_source: https://service.teamviewer.com/en-us/overview/a
-sso_pricing: Call Us! ($229.9/month+)
-updated_at: 2024-02-06
+percent_increase: 145%
+pricing_source: https://www.teamviewer.com/en/pricing/
+sso_pricing: After calling and discount $289 (Tensor Lite)
+updated_at: 2024-05-24
 vendor_url: https://www.teamviewer.com
